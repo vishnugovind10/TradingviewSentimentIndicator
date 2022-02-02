@@ -1,1 +1,1 @@
-# TradingviewSentimentIndicator
+# **Tradingview Sentiment Indicator**
