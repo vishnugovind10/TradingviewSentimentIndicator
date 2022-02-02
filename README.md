@@ -17,6 +17,8 @@ The code outputs the following in real time based on the market
 2. Weak Bullish: The trend is bullish but wait for additional signals or a confirmation
 3. Strong bearish: There is a strong bullish trend in the market
 4. Weak Bearish : The trend is bearish but wait for additional signals or a confirmation
+5. Trending
+6. Ranging
 
 The algortihm calculates the market sentiment over several time periods. It then aggregates all these time periods to build a market color. 
 
