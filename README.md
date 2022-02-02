@@ -26,3 +26,7 @@ The algortihm calculates the market sentiment over several time periods. It then
   
   1. Swing Trading: Jump in on the trade at the beginning of a trend (when short term and long term trends agree)
   2. Scalping: Trade the short term and exit for a quick profit ( this can be used when short term and long term trends do not agree)
+
+**Flow chart of the algorithm**
+
+![](Logic.jpeg)
