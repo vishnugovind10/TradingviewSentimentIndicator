@@ -20,7 +20,7 @@ The code outputs the following in real time based on the market
 
 The algortihm calculates the market sentiment over several time periods. It then aggregates all these time periods to build a market color. 
 
-  A trong trend is when the short term market direction agrees with the long term and vice versa
+  A strong trend is when the short term market direction agrees with the long term and vice versa
   
   Based on the above signals several strategies can be devised
   
