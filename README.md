@@ -18,3 +18,11 @@ The code outputs the following in real time based on the market
 3. Strong bearish: There is a strong bullish trend in the market
 4. Weak Bearish : The trend is bearish but wait for additional signals or a confirmation
 
+The algortihm calculates the market sentiment over several time periods. It then aggregates all these time periods to build a market color. 
+
+  A trong trend is when the short term market direction agrees with the long term and vice versa
+  
+  Based on the above signals several strategies can be devised
+  
+  1. Swing Trading: Jump in on the trade at the beginning of a trend (when short term and long term trends agree)
+  2. Scalping: Trade the short term and exit for a quick profit ( this can be used when short term and long term trends do not agree)
