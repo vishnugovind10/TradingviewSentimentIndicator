@@ -29,4 +29,4 @@ The algortihm calculates the market sentiment over several time periods. It then
 
 **Flow chart of the algorithm**
 
-![](Logic.jpeg)
+![](Logic.JPG)
