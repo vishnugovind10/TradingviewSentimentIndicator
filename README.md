@@ -4,7 +4,7 @@ Programming Language: Javascript
 
 The indicator uses VWAP and volume profile to develop a market sentiment. Since PineScript does not have an option to use these indicators to build advanced algorithms, this code uses a workaround for this. It does this by the following
 
-1. Create alerts for VWAP and Volume changes in Tradingview 
+1. Create alerts for VWAP,SMA and Volume changes in Tradingview 
 2. Tradingview sends these alerts to Gmail
 3. Read the alerts from the Gmail, run the logic
 4. Print the output onto Google Sheets
